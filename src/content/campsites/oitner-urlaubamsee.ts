@@ -17,7 +17,6 @@ const oitner: CampsiteConfig = {
   see: "Obertrumer See",
   regionLong: "Salzburger Seenland · Obertrum am See · Österreich",
 
-  theme: "editorial",
   heroVariant: "center",
 
   claim: "Klein, ruhig und direkt am Obertrumer See",
