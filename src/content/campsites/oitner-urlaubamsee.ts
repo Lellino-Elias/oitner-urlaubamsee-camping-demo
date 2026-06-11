@@ -137,8 +137,8 @@ const oitner: CampsiteConfig = {
 
   kontakt: {
     coords: { lat: 47.942366, lng: 13.069151 },
-    tel: "+43 6219 62 63",
-    telHref: "tel:+4362196263",
+    tel: "+43 6219 6442",
+    telHref: "tel:+4362196442",
     mail: "info@oitner-urlaubamsee.at",
     adresse: "Seestraße 18 · 5162 Obertrum am See · Salzburg",
   },
