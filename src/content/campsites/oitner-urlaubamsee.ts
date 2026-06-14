@@ -117,7 +117,6 @@ const oitner: CampsiteConfig = {
       { src: `${IMG}/activity-80ab9f099b.webp`, alt: "Blick von oben auf die Stellplätze des Strandcamping Oitner am See" },
       { src: `${IMG}/award-6280164231.png`, alt: "Stellplätze am Seeufer mit Steg und Spielbereich" },
       { src: `${IMG}/activity-2060332982.webp`, alt: "Schilfufer und ruhiges Wasser am Obertrumer See" },
-      { src: `${IMG}/award-447453e06a.png`, alt: "Seestüberl mit Sonnenterrasse am Strandcamping Oitner" },
     ],
   },
 
