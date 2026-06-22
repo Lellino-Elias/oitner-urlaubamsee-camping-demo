@@ -33,7 +33,7 @@ const oitner: CampsiteConfig = {
     {
       title: "Direkt am Obertrumer See",
       text: "Der kleine Platz liegt in der ruhigen Staffl-Bucht am Ufer des Obertrumer Sees — eingebettet ins Salzburger Seenland.",
-      image: { src: `${IMG}/accommodation-a8ca7f4eb5.webp`, alt: "Luftaufnahme der Staffl-Bucht am Obertrumer See mit dem Strandcamping Oitner" },
+      image: { src: `${IMG}/award-355102fccd.png`, alt: "Luftaufnahme der Staffl-Bucht am Obertrumer See mit dem Strandcamping Oitner" },
     },
     {
       title: "Stellplätze in erster Reihe",
@@ -113,7 +113,7 @@ const oitner: CampsiteConfig = {
     intro: "Ruhiges Wasser, grüne Hügel und ein Platz, der seit Jahrzehnten zur Familie gehört.",
     tag: "Mai bis September",
     images: [
-      { src: `${IMG}/award-355102fccd.png`, alt: "Luftaufnahme vom Obertrumer See mit dem Strandcamping Oitner" },
+      { src: `${IMG}/accommodation-a8ca7f4eb5.webp`, alt: "Weitblick über den Obertrumer See mit dem Strandcamping Oitner" },
       { src: `${IMG}/activity-80ab9f099b.webp`, alt: "Blick von oben auf die Stellplätze des Strandcamping Oitner am See" },
       { src: `${IMG}/award-6280164231.png`, alt: "Stellplätze am Seeufer mit Steg und Spielbereich" },
       { src: `${IMG}/activity-2060332982.webp`, alt: "Schilfufer und ruhiges Wasser am Obertrumer See" },
