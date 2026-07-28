@@ -40,11 +40,6 @@ const oitner: CampsiteConfig = {
       text: "Rund 25 Plätze für Wohnmobil, Wohnwagen und Zelt liegen nah am Wasser, dazu etwa 30 Dauerstellplätze auf dem gepflegten Areal.",
       image: { src: `${IMG}/award-891d2790bb.png`, alt: "Stellplätze mit Wohnwagen am Ufer des Obertrumer Sees" },
     },
-    {
-      title: "Eigener Badestrand mit Steg",
-      text: "Zum Platz gehören ein eigener Badestrand mit Steg, ein Kinderbecken und eine Raststange — Baden beginnt gleich hinterm Vorzelt.",
-      image: { src: `${IMG}/gallery-aeb4459f84.webp`, alt: "Badestrand mit Steg am Strandcamping Oitner, vom Wasser aus gesehen" },
-    },
   ],
 
   usps: [
@@ -113,10 +108,7 @@ const oitner: CampsiteConfig = {
     intro: "Ruhiges Wasser, grüne Hügel und ein Platz, der seit Jahrzehnten zur Familie gehört.",
     tag: "Mai bis September",
     images: [
-      { src: `${IMG}/accommodation-a8ca7f4eb5.webp`, alt: "Weitblick über den Obertrumer See mit dem Strandcamping Oitner" },
-      { src: `${IMG}/activity-80ab9f099b.webp`, alt: "Blick von oben auf die Stellplätze des Strandcamping Oitner am See" },
       { src: `${IMG}/award-6280164231.png`, alt: "Stellplätze am Seeufer mit Steg und Spielbereich" },
-      { src: `${IMG}/activity-2060332982.webp`, alt: "Schilfufer und ruhiges Wasser am Obertrumer See" },
     ],
   },
 
