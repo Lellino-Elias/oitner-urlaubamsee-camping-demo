@@ -38,7 +38,7 @@ const oitner: CampsiteConfig = {
     {
       title: "Stellplätze in erster Reihe",
       text: "Rund 25 Plätze für Wohnmobil, Wohnwagen und Zelt liegen nah am Wasser, dazu etwa 30 Dauerstellplätze auf dem gepflegten Areal.",
-      image: { src: `${IMG}/award-891d2790bb.png`, alt: "Stellplätze mit Wohnwagen am Ufer des Obertrumer Sees" },
+      image: { src: `${IMG}/award-6280164231.png`, alt: "Stellplätze am Ufer des Obertrumer Sees, Blick vom Steg mit Weide und Wohnwagen" },
     },
   ],
 
@@ -108,7 +108,7 @@ const oitner: CampsiteConfig = {
     intro: "Ruhiges Wasser, grüne Hügel und ein Platz, der seit Jahrzehnten zur Familie gehört.",
     tag: "Mai bis September",
     images: [
-      { src: `${IMG}/award-6280164231.png`, alt: "Stellplätze am Seeufer mit Steg und Spielbereich" },
+      { src: `${IMG}/award-891d2790bb.png`, alt: "Wohnmobile und Wohnwagen auf den Stellplätzen des Strandcampings Oitner am Obertrumer See" },
     ],
   },
 
